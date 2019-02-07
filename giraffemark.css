@@ -1,0 +1,17 @@
+.intro {
+  font-style: italic;
+}
+.author {
+  color: red;
+
+}
+p.author {
+  font-size: 18px;
+}
+.line1 {
+  font-family: cursive;
+  color: green;
+}
+#line2 {
+  color:purple;
+}
